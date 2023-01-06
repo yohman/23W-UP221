@@ -1,16 +1,15 @@
 
 # Week 1: Introduction to spatial data science
-January 3, 2022
+January 9, 2023
 
 ## Lecture
 ###   Overview of the course
 
 *Note that this course will be recorded
 
-* In person! WELCOME BACK! Or not... sadly, remote for the time being
 * Mark your [attendance](https://docs.google.com/spreadsheets/d/1MjlMVqbYFQNGe8OVQk37D2tsF-hl5Hd4c7JFNUMSXLw/edit#gid=0)
-* Fill out the [pre-class](https://forms.gle/z7uXnoDs8sBH2oSi9) poll if you haven't already
-* Go over the [Syllabus](https://github.com/yohman/22W-UP206A)
+* Fill out the [pre-class](https://forms.gle/f8ZXLgNbvFawt6cw5) poll if you haven't already
+* Go over the [Syllabus](https://github.com/yohman/23W-UP221)
 * Your TA's
 * Logistics
    * technology/equipment needed for the class
@@ -25,7 +24,7 @@ January 3, 2022
 
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F22W-UP206A&urlpath=lab%2Ftree%2F22W-UP206A%2F&branch=master) (This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 Today's lab will cover the following topics:
 
