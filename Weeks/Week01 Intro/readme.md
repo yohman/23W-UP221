@@ -24,7 +24,7 @@ January 9, 2023
 
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 Today's lab will cover the following topics:
 
@@ -34,11 +34,11 @@ Today's lab will cover the following topics:
 
 ## Individual Assignments
 
-There are three deliverables this week. Each are due on Sunday by midnight. Each assignment must be posted in the [class discussion section](https://github.com/yohman/22W-UP206A/discussions).
+There are three deliverables this week. Each are due on Sunday by midnight. Each assignment must be posted in the [class discussion section](https://github.com/yohman/23W-UP221/discussions).
 
 ### #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “up221-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 *  Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/1)
 
