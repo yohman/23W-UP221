@@ -40,7 +40,7 @@ There are three deliverables this week. Each are due on Sunday by midnight. Each
 
 *   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
-*  Submit your assignment [here](https://github.com/yohman/22W-UP206A/discussions/6)
+*  Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/1)
 
 ### #2. Submit two or more datasets
 Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
@@ -53,7 +53,7 @@ Acceptable formats:
 - shapefile
 - API source
 
-Submit your dataset assigment [here](https://github.com/yohman/22W-UP206A/discussions/3), and make sure to provide the following information for each of your two datasets:
+Submit your dataset assigment [here](https://github.com/yohman/23W-UP221/discussions/2), and make sure to provide the following information for each of your two datasets:
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -68,4 +68,4 @@ This week's "thinking cap" assignment is for you to find an article, blog, journ
 
 The instructors will select a few of the readings for discussion in week 2.
 
-Submit your assignment [here](https://github.com/yohman/22W-UP206A/discussions/5).
+Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/3).
