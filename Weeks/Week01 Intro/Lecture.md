@@ -1,16 +1,62 @@
+---
+marp: true
+theme: uncover
+headingDivider: 3
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/yoh%20with%20globe.png)
+paginate: true
 
-# Week 1: Introduction to spatial data science
+---
+
+<style>
+small {font-size:0.6em}
+.small {font-size:0.6em}
+medium {font-size:0.9em}
+.medium {font-size:0.9em}
+large {font-size:2em}
+.large {font-size:2em}
+xlarge {font-size:4em}
+.xlarge {font-size:4em}
+gray {padding:20px;background-color:whitesmoke;font-weight:800}
+plum {padding:20px;background-color:plum;line-height:3}
+.gray {padding:20px;background-color:whitesmoke;line-height:3}
+.plum {padding:20px;background-color:plum;line-height:3}
+
+xl { font-size:2.5em;font-weight:100;line-height:1}
+h1,h2,h3,h4,h5{font-family:serif}
+section {font-size:2em;font-weight:300;}
+
+</style>
+
+# Week 1
+
+<xl>
+
+Introduction to GIS and Spatial Data Science
+
+</xl>
+
+https://ucla.zoom.us/j/96734931456
+
 January 9, 2023
 
-## Lecture
-###   Overview of the course
 
-*Note that this course will be recorded
 
-* Mark your [attendance](https://docs.google.com/spreadsheets/d/1AyNdt5qhkWFIkaGcKBVB3rexTgRLfv-Wx7GqY3LPnGA/edit?usp=sharing)
-* Fill out the [pre-class](https://forms.gle/f8ZXLgNbvFawt6cw5) poll if you haven't already
-* Go over the [Syllabus](https://github.com/yohman/23W-UP221)
-* Your TA's
+##
+<xl>
+
+*Note that this course will be recorded🎥
+
+</xl>
+
+##   Overview of the course
+##
+
+* Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/1AyNdt5qhkWFIkaGcKBVB3rexTgRLfv-Wx7GqY3LPnGA/edit?usp=sharing) 
+* Fill out the [pre-class](https://forms.gle/f8ZXLgNbvFawt6cw5) poll if you haven't already ☑️
+* Go over the [Syllabus](https://github.com/yohman/23W-UP221) 📜
+* Meet your TA's
+  * Chris Giamarino
+  * Elliot Shaw
 * Logistics
    * technology/equipment needed for the class
    * zoom setup
