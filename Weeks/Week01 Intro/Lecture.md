@@ -56,6 +56,7 @@ January 9, 2023
 ![width:300px](../images/yoh%20at%20reitaku.jpg)
 ![bg right:65%](../images/my%20life%20in%20data.png)
 
+
 # Overview of the course
 ##
 
