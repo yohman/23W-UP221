@@ -2,7 +2,7 @@
 
 Winter 2023
 
-Mondays 2pm - 4:50pm
+Mondays 5pm - 7:50pm
 
 Fully remote instruction and attendance with in-person options to meet with T.A.'s
 
@@ -27,7 +27,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Yoh: Wednesdays 4PM - 6PM and by appointment
 	* [Schedule an appointment](https://calendar.app.google/7iS8JsxPWxsnvAKSA)
-* Chris: TBD
+* Chris: Fridays 12PM - 2PM and by appointment (email to schedule)
 * Elliot: TBD
 
 ## Course Description
