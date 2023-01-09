@@ -27,7 +27,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Yoh: Wednesdays 4PM - 6PM and by appointment
 	* [Schedule an appointment](https://calendar.app.google/7iS8JsxPWxsnvAKSA)
-* Chris: Fridays 12PM - 2PM (https://ucla.zoom.us/j/91624281568?pwd=TVkwTFlRclRxd3lDUWdoR2hOSklCdz09) and by appointment (email to schedule)
+* Chris: [Fridays 12PM - 2PM](https://ucla.zoom.us/j/91624281568?pwd=TVkwTFlRclRxd3lDUWdoR2hOSklCdz09) and by appointment (email to schedule)
 * Elliot: TBD
 
 ## Course Description
