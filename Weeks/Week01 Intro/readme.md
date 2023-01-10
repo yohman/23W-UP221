@@ -42,10 +42,15 @@ January 9, 2023
 
 ![](../images/yoh%20with%20globe%20large.png)
 
+## 
+
+![bg](../images/ginkakuji2.jpg)
+
 ## Call me "Yoh"
 ![width:300px](../images/yoh%20at%20reitaku.jpg)
 ![bg right:65%](../images/my%20life%20in%20data.png)
 
+[My journey](https://yohman.github.io/21S-DH151/Weeks/Week01/misc/me.html)
 
 # Overview of the course
 ##
@@ -55,17 +60,29 @@ January 9, 2023
 * Go over the [Syllabus](https://github.com/yohman/23W-UP221) 📜
 
 ## Meet your TA's
-  * Chris Giamarino
+  * Chris Giamarino 🎂🥳
   * Elliot Shaw
 
 ## Logistics
-* technology/equipment needed for the class
-* zoom setup
-* slack
+* Two monitors encouraged
+  * Laptop + external monitor
+  * Laptop + iPad
+  * Laptop + cell phone)
+* Zoom setup: video **ON** by default PLEASE!
+* Slack: **ALL** coding questions must be posted on slack
 * [the ultimate T.A.'s guide to success](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
-* Time permitting: introduction breakout rooms
+
+## Class spirit
+
+<xl>
+
+Collaboration
+
+</xl>
+
+## Questions?
 
 # Lab session 🗺
 
