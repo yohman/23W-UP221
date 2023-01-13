@@ -8,7 +8,7 @@ paginate: true
 ---
 
 <style>
-small {font-size:0.6em}
+kesmall {font-size:0.6em}
 medium {font-size:0.9em}
 large {font-size:2em}
 xlarge {font-size:4em}
