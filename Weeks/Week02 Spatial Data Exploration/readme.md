@@ -87,8 +87,8 @@ This is your first code assignment submission. Before you begin, create a clone 
 ### Submission guidelines:
 
 - Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. For many of you, you may have already done this as part of your week 1 assignments.
-- Launch JupyterHub, go to your `up206a` repo folder, and create a `week01` folder.
-- Load the dataset to the `up206a/week01` folder.
+- Launch JupyterHub, go to your `up221` repo folder, and create a `week02` folder.
+- Load the dataset to the `up221/week02` folder.
 
 ### 
 Create a new python notebook 
@@ -133,4 +133,4 @@ Commit your changes to your GitHub repo by following these instructions:
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://github.com/yohman/22W-UP206A/discussions/7).
+The last step is to submit your assignment to the class repo discussion section [here](https://github.com/yohman/23W-UP221/discussions/4).
