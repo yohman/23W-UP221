@@ -1,0 +1,166 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13280610
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           CENSUS 2020 - Preliminary Data
+Dataset:          Social Explorer Tables
+Tables:
+
+      1. 2020 Total Population - Race by Ethnicity
+         Universe:  none
+         Name:      T003
+         Variables:
+            T004_019:   Total Population
+            T004_001:   Non Hispanic
+            T004_003:   Non Hispanic White Alone
+            T004_005:   Non Hispanic Black Alone
+            T004_007:   Non Hispanic American Indian and Alaska Native Alone
+            T004_009:   Non Hispanic Asian Alone
+            T004_011:   Non Hispanic Native Hawaiian and Pacific Islander Alone
+            T004_013:   Non Hispanic Other Alone
+            T004_015:   Non Hispanic Multi Race
+            T004_017:   Hispanic
+
+
+      2. 2010 Total Population - Race by Ethnicity
+         Universe:  none
+         Name:      T004
+         Variables:
+            T005_019:   Total Population
+            T005_001:   Non Hispanic
+            T005_003:   Non Hispanic White Alone
+            T005_005:   Non Hispanic Black Alone
+            T005_007:   Non Hispanic American Indian and Alaska Native Alone
+            T005_009:   Non Hispanic Asian Alone
+            T005_011:   Non Hispanic Native Hawaiian and Pacific Islander Alone
+            T005_013:   Non Hispanic Other Alone
+            T005_015:   Non Hispanic Multi Race
+            T005_017:   Hispanic
+
+
+      3. Total Population - Race by Ethnicity Change 2010 to 2020
+         Universe:  none
+         Name:      T005
+         Variables:
+            T006_019:   Total Population
+            T006_001:   Non Hispanic 
+            T006_003:   Non Hispanic White Alone 
+            T006_005:   Non Hispanic Black Alone 
+            T006_007:   Non Hispanic American Indian and Alaska Native Alone 
+            T006_009:   Non Hispanic Asian Alone 
+            T006_011:   Non Hispanic Native Hawaiian and Pacific Islander Alone 
+            T006_013:   Non Hispanic Other Alone 
+            T006_015:   Non Hispanic Multi Race 
+            T006_017:   Hispanic 
+
+
+      4. Total Population - Race by Ethnicity Change in Percentage 2010 to 2020
+         Universe:  none
+         Name:      T006
+         Variables:
+            T017_020:   Total Population
+            T017_002:   Non Hispanic
+            T017_004:   Non Hispanic White Alone
+            T017_006:   Non Hispanic Black Alone
+            T017_008:   Non Hispanic American Indian and Alaska Native Alone
+            T017_010:   Non Hispanic Asian Alone
+            T017_012:   Non Hispanic Native Hawaiian and Pacific Islander Alone
+            T017_014:   Non Hispanic Other Alone
+            T017_016:   Non Hispanic Multi Race
+            T017_018:   Hispanic
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      CS:             County Subdivision
+      CT:             Census Tract
+      PLACE:          Place
+      CSA:            Combined Statistical Area
+      T004_019:       2020 Total Population
+      T004_001:       2020 Total Population Non Hispanic
+      T004_003:       2020 Total Population Non Hispanic White Alone
+      T004_005:       2020 Total Population Non Hispanic Black Alone
+      T004_007:       2020 Total Population Non Hispanic American Indian and Alaska Native Alone
+      T004_009:       2020 Total Population Non Hispanic Asian Alone
+      T004_011:       2020 Total Population Non Hispanic Native Hawaiian and Pacific Islander Alone
+      T004_013:       2020 Total Population Non Hispanic Other Alone
+      T004_015:       2020 Total Population Non Hispanic Multi Race
+      T004_017:       2020 Total Population Hispanic
+      T005_019:       Total Population Change 2010 to 2020
+      T005_001:       2010 Total Population Non Hispanic
+      T005_003:       2010 Total Population Non Hispanic White Alone
+      T005_005:       2010 Total Population Non Hispanic Black Alone
+      T005_007:       2010 Total Population Non Hispanic American Indian and Alaska Native Alone
+      T005_009:       2010 Total Population Non Hispanic Asian Alone
+      T005_011:       2010 Total Population Non Hispanic Native Hawaiian and Pacific Islander Alone
+      T005_013:       2010 Total Population Non Hispanic Other Alone
+      T005_015:       2010 Total Population Non Hispanic Multi Race
+      T005_017:       2010 Total Population Hispanic
+      T006_019:       Total Population Change 2010 to 2020
+      T006_001:       Total Population Non Hispanic Change 2010 to 2020
+      T006_003:       Total Population Non Hispanic White Alone Change 2010 to 2020
+      T006_005:       Total Population Non Hispanic Black Alone Change 2010 to 2020
+      T006_007:       Total Population Non Hispanic American Indian and Alaska Native Alone Change 2010 to 2020
+      T006_009:       Total Population Non Hispanic Asian Alone Change 2010 to 2020
+      T006_011:       Total Population Non Hispanic Native Hawaiian and Pacific Islander Alone Change 2010 to 2020
+      T006_013:       Total Population Non Hispanic Other Alone Change 2010 to 2020
+      T006_015:       Total Population Non Hispanic Multi Race Change 2010 to 2020
+      T006_017:       Total Population Hispanic Change 2010 to 2020
+      T017_020:       Total Population Change Percentage 2010 to 2020
+      T017_002:       Total Population Non Hispanic Change in Percentage 2010 to 2020
+      T017_004:       Total Population Non Hispanic White Alone Change in Percentage 2010 to 2020
+      T017_006:       Total Population Non Hispanic Black Alone Change in Percentage 2010 to 2020
+      T017_008:       Total Population Non Hispanic American Indian and Alaska Native Alone Change in Percentage 2010 to 2020
+      T017_010:       Total Population Non Hispanic Asian Alone Change in Percentage 2010 to 2020
+      T017_012:       Total Population Non Hispanic Native Hawaiian and Pacific Islander Alone Change in Percentage 2010 to 2020
+      T017_014:       Total Population Non Hispanic Other Alone Change in Percentage 2010 to 2020
+      T017_016:       Total Population Non Hispanic Multi Race Change in Percentage 2010 to 2020
+      T017_018:       Total Population Hispanic Change in Percentage 2010 to 2020
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13280610
+
+If you have any questions contact info@socialexplorer.com
