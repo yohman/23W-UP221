@@ -5,3 +5,5 @@ Recordings will be made available within a day after the class. These recordings
 - Lab section starts at around 01:30 mark
 
 [Week 2 Spatial Data Exploration](https://ucla.zoom.us/rec/share/1T1DENyVo0dQZKbQ7eNqey1aMj4hPeF-oT8Bi-dddARc1FQ15TkjrjjxOCEx9w_A.JGAFQMkxBBXiNS3A)
+
+[Week 3 Census Data Exploration](https://ucla.zoom.us/rec/share/thXF9eM6QlzklZsKcx6a9jX7ETjs-zaB7s4g_NblCGp1LD12LfM9vv3P9PY3B4zs.kImjhPaIh1uTI3sF)
