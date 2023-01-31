@@ -110,6 +110,8 @@ All assignments are graded on the following criteria:
 - **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
 - **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
 
+###[Assignment grading helpful hints](https://docs.google.com/document/d/1D4ud1I9vuDPNDudINPC4-MLG-PV7AnzvkexZ-KFqyWk/edit?usp=sharing)
+
 Grade | Description
 ---|---
 A/A+ | Exceptional/creative/innovative work, demonstrating grasp of material, application of concepts to your own inquiry, going above and beyond course material
