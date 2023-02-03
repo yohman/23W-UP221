@@ -138,12 +138,12 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 Week | Date | Topic
 --- | --- | ---
-Week 1 | January 9, 2023 |[Introduction to spatial data science](Weeks/Week01)
-Week 2 | January 16, 2023 (Holiday/Make up date TBD)| [Data in Urban Studies: The challenge in data acquisition](Weeks/Week02)
+Week 1 | January 9, 2023 |[Introduction to spatial data science](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week01%20Intro)
+Week 2 | January 16, 2023 (Holiday/Make up date TBD)| [Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)
  -- | -- | [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
-Week 3 | January 23, 2023 | [Understanding communities: Census data profiles](Weeks/Week03)
+Week 3 | January 23, 2023 | [Understanding communities: Census data profiles](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week03%20Census%20Data)
  -- | -- | [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
-Week 4 | January 30, 2023 | [Open Street Maps](Weeks/Week04)
+Week 4 | January 30, 2023 | [Open Street Maps](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week04%20Open%20data)
 Week 5 | February 6, 2023 | [Open data and APIs](Weeks/Week05)
 Week 6 | February 13, 2023| [Mid-terms](Weeks/Week06)
  -- | -- | [Midterms](Midterm%20and%20Finals)
