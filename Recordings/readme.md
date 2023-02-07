@@ -11,3 +11,5 @@ Recordings will be made available within a day after the class. These recordings
 [Week 4 Open Data Exploration](https://ucla.zoom.us/rec/share/Yxo093ZIApdumNDD4MfHlBp-IgOAUVZBFx4EUhzsw_Am15-IXqLlwGc9PTZqW1su.xn_4jvsNY8-Amfga)
 - First lab on Fatal Force data starts right away
 - Second lab on LA crime data starts around the 1:10 mark
+
+[Week 5 Open Street Map](https://ucla.zoom.us/rec/share/-O4h4jkupZOFt_K_rRG2Ko_Erq4nxstxp9tdpKpzq2ELIwaVUpReDqwcvI0PHpPq.zPUHcJ9POYUXZwHa)
