@@ -42,12 +42,28 @@ February 6, 2023
 
 ##
 
+
 <xl>
-Fukushima
+Kyoto Tondo Festival
 </xl>
 <br>
 A little taste of the Japanese countryside
 
+##
+
+![bg](images/tondo1.jpg)
+
+##
+
+![bg](images/tondo2.jpg)
+
+##
+
+![bg](images/tondo3.jpg)
+
+##
+
+![bg](images/tondo4.jpg)
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
@@ -75,7 +91,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 - [Midterms](../../Midterm%20and%20Finals)
 - Presentations
-  -  7 minutes for "solo" projects, 8 minutes for two person groups
+  -  7 minutes per group
   -  Each group member must present a portion of the project, for roughly an equal time of the presentation
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
@@ -87,4 +103,4 @@ First, grab the course material, and "pull" it into your JupyterHub:
 - Talk to the audience, not your computer or the screen
 - Show your passion!
 
-Submit your midterm materials [here](https://github.com/yohman/22W-UP206A/discussions/15)
+Submit your midterm materials [here](https://github.com/yohman/23W-UP221/discussions/9)
