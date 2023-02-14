@@ -13,3 +13,5 @@ Recordings will be made available within a day after the class. These recordings
 - Second lab on LA crime data starts around the 1:10 mark
 
 [Week 5 Open Street Map](https://ucla.zoom.us/rec/share/-O4h4jkupZOFt_K_rRG2Ko_Erq4nxstxp9tdpKpzq2ELIwaVUpReDqwcvI0PHpPq.zPUHcJ9POYUXZwHa)
+
+[Week 6 Midterm Presentations](https://ucla.zoom.us/rec/share/oOxJBQxMsRukPtGsNDlpURGwbKZvreaafLKhn6oe4isOsuQ0AOK3teOalbIUywmO.tooucWdq5BTC_tHX)
