@@ -15,3 +15,5 @@ Recordings will be made available within a day after the class. These recordings
 [Week 5 Open Street Map](https://ucla.zoom.us/rec/share/-O4h4jkupZOFt_K_rRG2Ko_Erq4nxstxp9tdpKpzq2ELIwaVUpReDqwcvI0PHpPq.zPUHcJ9POYUXZwHa)
 
 [Week 6 Midterm Presentations](https://ucla.zoom.us/rec/share/oOxJBQxMsRukPtGsNDlpURGwbKZvreaafLKhn6oe4isOsuQ0AOK3teOalbIUywmO.tooucWdq5BTC_tHX)
+
+[Week 7 Isochrone Maps](https://ucla.zoom.us/rec/share/Y804-CQkUAoxxyn93hlCMiEbFtO8BXjl1THmPqHkG7fzkV6dd5-Of9l7UgLYSirA.qtKAhu0NVI_an_C3)
