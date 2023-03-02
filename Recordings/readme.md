@@ -17,3 +17,5 @@ Recordings will be made available within a day after the class. These recordings
 [Week 6 Midterm Presentations](https://ucla.zoom.us/rec/share/oOxJBQxMsRukPtGsNDlpURGwbKZvreaafLKhn6oe4isOsuQ0AOK3teOalbIUywmO.tooucWdq5BTC_tHX)
 
 [Week 7 Isochrone Maps](https://ucla.zoom.us/rec/share/Y804-CQkUAoxxyn93hlCMiEbFtO8BXjl1THmPqHkG7fzkV6dd5-Of9l7UgLYSirA.qtKAhu0NVI_an_C3)
+
+[Week 8 Spatial Autocorrelation, Ana Maria](https://ucla.zoom.us/rec/share/zd6TEB63FpnViG_sco_HxuszY775gKk8e2FOjggeXV0OlMyKLvTycAYbjIYKkFxy.AC39n8_vIgU7WpVG)
