@@ -21,7 +21,7 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Week 8: March 6, 2023
+## Week 9: March 6, 2023
 
 
 ![point patterns](images/pp.png)
