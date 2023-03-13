@@ -21,7 +21,7 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Week 10: March 12, 2023
+## Week 10: March 13, 2023
 
 
 <xl>
