@@ -88,24 +88,18 @@ Chris and Elliot
 Our amazing spatial scholars
 
 ## Today's lab
+
+![remote sensing](https://github.com/yohman/workshop-remote-sensing/raw/main/images/remote2.png)
 - Metro scraping!
 - Remote sensing 101
 
-## Assignments
+## Final project presentations
 
-Final project presentations
+<xl>
+March 20th, Monday 5pm~
 
-- [Submission guidelines](../../Midterm%20and%20Finals/#final-project-30-of-your-final-grade)
-
-## About Story Maps
+</xl>
 
 <br>
-<left>
 
-Now you can access ArcGIS Online using UCLA SSO. No need to create accounts. You can go to [ArcGIS online at UCLA home page](https://gisucla.maps.arcgis.com/home/index.html) to sign in. if you have questions about sign in, refer to this [libguide](https://guides.library.ucla.edu/c.php?g=1268157). 
-
-
-* [How to embed interactive maps/charts into an ESRI Storymap](W09-Publishing%20interactive%20visualizations.ipynb)
-* [Story Maps Tutorial](https://ucladataguides.readthedocs.io/en/latest/presenting_data/storymaps.html)
-* [ESRI's Story Map Guide](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
-
+- [Submission guidelines](../../Midterm%20and%20Finals/#final-project-30-of-your-final-grade)
