@@ -58,7 +58,6 @@ This course will be recorded<br><br>🎥
 </xl>
 
 <br>
-A little taste of the Japanese countryside
 
 
 ##
@@ -80,6 +79,13 @@ A little taste of the Japanese countryside
 
 </xl>
 
+##
+
+<xl>
+Chris and Elliot
+</xl>
+
+Our amazing spatial scholars
 
 ## Today's lab
 - Metro scraping!
